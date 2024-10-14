@@ -1,0 +1,5 @@
+{
+  "root" : "/webserver/",
+  "database" : "/webserver/database/",
+  "404" : false
+}
